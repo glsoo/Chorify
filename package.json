@@ -1,0 +1,18 @@
+{
+  "name": "liquid-glass-music-express",
+  "version": "3.0.0",
+  "description": "Express app with /public, modular routes, file-based storage.",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "express-session": "^1.17.3",
+    "mime-types": "^2.1.35",
+    "multer": "^1.4.5-lts.1",
+    "uuid": "^9.0.1"
+  }
+}
