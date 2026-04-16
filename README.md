@@ -1,4 +1,4 @@
-# Liquid Glass Music — Express Edition
+# Chorify
 
 - Express app with **/public** static folder and modular **/routes/**
 - Data persisted into **/data** JSON files; uploads in **/uploads/**
